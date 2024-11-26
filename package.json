@@ -1,0 +1,25 @@
+{
+  "name": "carplay-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "^52.0.11",
+    "expo-cli": "^4.0.17",
+    "node-polyfill-webpack-plugin": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.76.3",
+    "react-native-carplay": "^1.2.0",
+    "react-native-video": "^6.0.0-alpha.1",
+    "react-native-web": "~0.19.13",
+    "react-native-webrtc": "^124.0.4"
+  },
+  "devDependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "@types/react": "~18.3.12",
+    "react-native-typescript-transformer": "^1.2.13"
+  }
+}
